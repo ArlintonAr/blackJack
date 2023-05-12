@@ -1,0 +1,21 @@
+html,body{
+    margin:0px;
+    background-color:rgb(1, 58, 1) ;
+    color: white;
+}
+
+.tittle{
+    text-align: center;
+    background-color: black;
+    color: white;    padding: 1rem;
+    font-size: 1,5rem;
+}
+.size-cart{
+    position: relative;
+    width:8rem ;
+    left: 5rem;
+    margin-left: -3rem;
+}
+#computer-cartas,#playerCards{
+    height: 12rem;
+}
