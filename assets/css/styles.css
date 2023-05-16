@@ -16,6 +16,6 @@ html,body{
     left: 5rem;
     margin-left: -3rem;
 }
-#computer-cartas,#playerCards{
+#computerCards,#playerCards{
     height: 12rem;
 }
